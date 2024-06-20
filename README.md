@@ -49,16 +49,6 @@ To view and interact with the Cannigma Clone project locally, follow these steps
     open index.html
     ```
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-*Home page of the Cannigma Clone*
-
-### Responsive Design
-![Responsive Design](screenshots/responsive.png)
-*Responsive design in action*
-
 ## 🤝 Contributing
 
 I welcome contributions to improve the Cannigma Clone project. If you have any suggestions or improvements, please feel free to submit a pull request. Ensure that your contributions adhere to the project's coding standards and best practices.
